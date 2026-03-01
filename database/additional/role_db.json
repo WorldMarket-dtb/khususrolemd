@@ -45,10 +45,12 @@
     "6283193352269": "FULL_UP"
   },
   "version": 1,
-  "updatedAt": "2026-03-01T21:07:22.462Z",
+  "updatedAt": "2026-03-01T21:07:32.618Z",
   "roles_tg": {
     "8636255337": "FULL_UP",
     "8386843680": "FULL_UP"
   },
-  "roles_tg_usernames": {}
+  "roles_tg_usernames": {
+    "rasukamilo": "STAFF"
+  }
 }
