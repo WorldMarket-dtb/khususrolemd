@@ -45,7 +45,7 @@
     "6283193352269": "FULL_UP"
   },
   "version": 1,
-  "updatedAt": "2026-03-28T14:07:25.848Z",
+  "updatedAt": "2026-03-29T10:11:44.747Z",
   "roles_tg": {
     "1009221195": "FULL_UP",
     "1869797810": "FULL_UP",
@@ -87,7 +87,8 @@
     "8285543098": "PARTNER",
     "8474929846": "STAFF",
     "8532261837": "RESSELER",
-    "5887014386": "PARTNER"
+    "5887014386": "PARTNER",
+    "7912689350": "STAFF"
   },
   "roles_tg_usernames": {
     "rasukamilo": "STAFF",
