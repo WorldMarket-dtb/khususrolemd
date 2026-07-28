@@ -11,7 +11,7 @@
       ]
     },
     "1876364132": {
-      "count": 3,
+      "count": 4,
       "history": [
         {
           "reason": "Manual warning oleh staff/admin",
@@ -27,6 +27,11 @@
           "reason": "Manual warning oleh staff/admin",
           "by": "1869797810",
           "at": "2026-07-28T08:34:19.049Z"
+        },
+        {
+          "reason": "Manual warning oleh staff/admin",
+          "by": "1869797810",
+          "at": "2026-07-28T08:34:23.833Z"
         }
       ]
     },
@@ -42,5 +47,5 @@
     }
   },
   "version": 1,
-  "updatedAt": "2026-07-28T08:34:19.049Z"
+  "updatedAt": "2026-07-28T08:34:23.833Z"
 }
