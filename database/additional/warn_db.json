@@ -10,6 +10,16 @@
         }
       ]
     },
+    "1876364132": {
+      "count": 1,
+      "history": [
+        {
+          "reason": "Manual warning oleh staff/admin",
+          "by": "1869797810",
+          "at": "2026-07-28T08:34:12.767Z"
+        }
+      ]
+    },
     "7962624217": {
       "count": 1,
       "history": [
@@ -22,5 +32,5 @@
     }
   },
   "version": 1,
-  "updatedAt": "2026-07-25T19:53:08.181Z"
+  "updatedAt": "2026-07-28T08:34:12.767Z"
 }
