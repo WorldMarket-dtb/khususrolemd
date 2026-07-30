@@ -56,16 +56,21 @@
       ]
     },
     "5236557842": {
-      "count": 1,
+      "count": 2,
       "history": [
         {
           "reason": "promosi",
           "by": "1869797810",
           "at": "2026-07-30T15:59:26.818Z"
+        },
+        {
+          "reason": "Manual warning oleh staff/admin",
+          "by": "1869797810",
+          "at": "2026-07-30T15:59:45.000Z"
         }
       ]
     }
   },
   "version": 1,
-  "updatedAt": "2026-07-30T15:59:26.818Z"
+  "updatedAt": "2026-07-30T15:59:45.000Z"
 }
