@@ -131,16 +131,21 @@
       ]
     },
     "8518012362": {
-      "count": 1,
+      "count": 2,
       "history": [
         {
           "reason": "promosi",
           "by": "7962624217",
           "at": "2026-08-10T08:36:36.691Z"
+        },
+        {
+          "reason": "Manual warning oleh staff/admin",
+          "by": "6788481793",
+          "at": "2026-08-10T13:47:24.583Z"
         }
       ]
     }
   },
   "version": 1,
-  "updatedAt": "2026-08-10T08:36:36.691Z"
+  "updatedAt": "2026-08-10T13:47:24.583Z"
 }
